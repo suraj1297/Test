@@ -1,0 +1,84 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<carProfile>
+        
+    
+    <sdf1243>
+                
+        <brand>das</brand>
+                
+        <model>dsad</model>
+                
+        <color>Yellow</color>
+                
+        <year>2022</year>
+                
+        <engineNo>asjasd2312434hhhj</engineNo>
+                
+        <seatsNo>3</seatsNo>
+                
+        <licensePlate>das</licensePlate>
+                
+        <ownerName>adffffgg</ownerName>
+                
+        <telephoneNo>1234567890</telephoneNo>
+                
+        <email>suraj@asd.com</email>
+                
+        <licenseNo>1234ggi</licenseNo>
+                
+        <socialSecurityNumber>123456789</socialSecurityNumber>
+                
+        <address>sdasafa ffdf</address>
+                
+        <warrantyYear>2023</warrantyYear>
+                
+        <ServiceRecord>
+                        
+            <record>
+                                
+                <date>09 February 2022</date>
+                                
+                <mileage>454</mileage>
+                                
+                <engineCheck>Yes</engineCheck>
+                            
+            </record>
+                        
+            <record>
+                                
+                <date>17 February 2022</date>
+                                
+                <mileage>565</mileage>
+                                
+                <engineCheck>Yes</engineCheck>
+                            
+            </record>
+                    
+        </ServiceRecord>
+            
+    </sdf1243>
+    
+    <dfh6786>
+        <brand>dhsag</brand>
+        <model>afgh</model>
+        <color>dred</color>
+        <year>2022</year>
+        <engineNo>jdjfhsjfh789798df</engineNo>
+        <seatsNo>3</seatsNo>
+        <licensePlate>dhsag</licensePlate>
+        <ownerName>fjdjkhj</ownerName>
+        <telephoneNo>1234567892</telephoneNo>
+        <email>as@asd.com</email>
+        <licenseNo>shdus67</licenseNo>
+        <socialSecurityNumber>123456789</socialSecurityNumber>
+        <address>sdh hdg</address>
+        <warrantyYear>2032</warrantyYear>
+        <ServiceRecord>
+            <record>
+                <date>10 February 2022</date>
+                <mileage>45</mileage>
+                <engineCheck>Yes</engineCheck>
+            </record>
+        </ServiceRecord>
+    </dfh6786>
+</carProfile>
